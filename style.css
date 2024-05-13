@@ -1,0 +1,108 @@
+header {
+
+    background-image: url('Object.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*css per 3 linqet ne header*/
+.headerlinks {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+
+}
+
+.section1 {
+    text-align: center;
+}
+
+p {
+    display: block;
+}
+
+button {
+    border-radius: 30px;
+    background-color: #C271FF;
+    border-color: #C271FF;
+    color: white;
+    border-width: 10px;
+    box-shadow: 2px 2px 4px black;
+
+}
+
+.divet {
+
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.section2 {
+    text-align: center;
+    background-color: #C271FF;
+    color: white;
+    font-family: 'Gill Sans', sans-serif;
+
+}
+
+.quote-text {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    display: inline-block;
+}
+
+.section3 {
+    text-align: center;
+    background-color: white;
+}
+
+.section4 {
+    text-align: center;
+    background-color: #071629;
+    color: white;
+}
+
+.section5 {
+    text-align: center;
+
+}
+
+.footer {
+    text-align: center;
+    background-color: #071629;
+    background-attachment: fixed;
+    background-position: center;
+    text-decoration: none;
+    
+   
+}
+
+.socials {
+    text-align: right;
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
